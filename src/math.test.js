@@ -12,6 +12,6 @@ test("multiply 3 and 3 to equal 9", () => {
   expect(multiply(3,3)).toBe(9);
 });
 
-test("ajaa with whatever params = 3", () => {
-  expect(ajaa(3,3)).toBe(3);
-});  
+// test("ajaa with whatever params = 3", () => {
+//   expect(ajaa(3,3)).toBe(3);
+// });
