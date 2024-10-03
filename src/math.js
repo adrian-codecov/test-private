@@ -18,5 +18,9 @@ function divide(a, b) {
     }
 }
 
-module.exports = { add, subtract, multiply };
+function ajaa(a, b) {
+    return 3
+}
+
+module.exports = { add, subtract, multiply, divide, ajaa };
   
