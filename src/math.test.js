@@ -12,6 +12,6 @@ test("multiply 3 and 3 to equal 9", () => {
   expect(multiply(3,3)).toBe(9);
 });
 
-test("divide 3 and 1 to equal 1", () => {
-  expect(divide(3,1)).toBe(1);
+test("divide 6 and 2 to equal 3", () => {
+  expect(divide(6, 2)).toBe(3);
 });
