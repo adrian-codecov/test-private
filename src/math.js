@@ -22,5 +22,9 @@ function ajaa(a, b) {
     return 3
 }
 
+function bee(a, b) {
+    return 22
+}
+
 module.exports = { add, subtract, multiply, divide, ajaa };
   
