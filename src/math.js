@@ -26,5 +26,9 @@ function bee(a, b) {
     return 22
 }
 
-module.exports = { add, subtract, multiply, divide, ajaa };
+function wow(a, b) {
+    return 123
+}
+
+module.exports = { add, subtract, multiply, divide, ajaa, bee, wow };
   
