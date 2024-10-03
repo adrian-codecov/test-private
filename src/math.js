@@ -30,5 +30,9 @@ function wow(a, b) {
     return 123
 }
 
-module.exports = { add, subtract, multiply, divide, ajaa, bee, wow };
+function le(a, b) {
+    return 123
+}
+
+module.exports = { add, subtract, multiply, divide, ajaa, bee, wow, le };
   
