@@ -17,6 +17,10 @@ function divide(a, b) {
         return 0;
     }
 }
-  
-module.exports = { add, subtract };
+
+function ajaa(a, b) {
+    return 3
+}
+
+module.exports = { add, subtract, multiply, divide, ajaa };
   
